@@ -10,8 +10,6 @@
 
 # ⚡ Technical Profile Specification
 
-<div align="center">
-
 ```python
 from typing import List, Dict, Final
 
@@ -43,8 +41,6 @@ class AgenticAIDeveloper:
     def execute_mission(self) -> str:
         return f"[{self.NAME}] -> {self.MISSION}"
 ```
-
-</div>
 
 ---
 
