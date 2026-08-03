@@ -9,7 +9,10 @@ https://github.com/user-attachments/assets/a0f8ee02-6a7d-4e52-93a2-be910dffecc8
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&background=0D111700&width=780&lines=Agentic+AI+Developer;Building+with+LLMs+%26+RAG+Pipelines;Turning+Ideas+into+Intelligent+Systems;LangChain+%7C+LangGraph+%7C+Vector+Databases)](https://git.io/typing-svg)
 
-<video src="https://github.com/user-attachments/assets/a0f8ee02-6a7d-4e52-93a2-be910dffecc8" autoplay loop muted playsinline width="100%" style="border-radius: 12px; margin-top: 15px;"></video>
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/a0f8ee02-6a7d-4e52-93a2-be910dffecc8" autoplay loop muted playsinline width="100%" style="border-radius: 10px;"></video>
+</div>
 
 </div>
 
