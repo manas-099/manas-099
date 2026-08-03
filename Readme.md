@@ -1,14 +1,18 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E293B,100:3B82F6&height=220&section=header&text=Manas%20Patra&fontSize=52&fontColor=FFFFFF&desc=Agentic%20AI%20Developer&descAlignY=62&animation=fadeIn)
+# Manas Patra
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&background=0D111700&width=780&lines=Agentic+AI+Developer;Building+with+LLMs+%26+RAG+Pipelines;Turning+Ideas+into+Intelligent+Systems;LangChain+%7C+LangGraph+%7C+Vector+Databases)](https://git.io/typing-svg)
+### Agentic AI Developer
+
+*Turning ideas into intelligent systems.*
 
 </div>
 
 ---
 
-### ⚡ Technical Profile Specification
+# ⚡ Technical Profile Specification
+
+<div align="center">
 
 ```python
 from typing import List, Dict, Final
@@ -25,58 +29,67 @@ class AgenticAIDeveloper:
     def __init__(self) -> None:
         self.current_focus: List[str] = [
             "Building Agentic Workflows with LangChain & LangGraph",
-            "Retrieval-Augmented Generation (RAG) Pipelines",
+            "Retrieval-Augmented Generation (RAG) Pipelines with Safety Guardrails",
             "Fine-tuning & Applying LLMs for NLP tasks"
         ]
         self.technical_stack: Dict[str, List[str]] = {
             "languages": ["Python"],
-            "llm_and_agents": ["LangChain", "LangGraph", "HuggingFace", "OpenAI API"],
-            "rag_and_data": ["Vector Databases", "Pinecone", "FAISS", "Pandas"],
+            "llm_and_agents": [
+                "LangChain", "LangGraph", "AutoGen", "MCP",
+                "HuggingFace", "OpenAI", "Google Generative AI (Gemini)", "OpenRouter"
+            ],
+            "rag_and_vector_data": ["Qdrant", "FAISS", "NumPy", "Pandas"],
+            "guardrails_and_safety": ["Guardrails AI", "NeMo Guardrails"],
         }
 
     def execute_mission(self) -> str:
         return f"[{self.NAME}] -> {self.MISSION}"
 ```
 
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### 💻 Core Language
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🤖 LLM, Agents & Generative AI
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openaigym&logoColor=white)
 
 ### 🔍 RAG & Vector Data
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🌐 Frameworks & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🛡️ Guardrails & Safety
 
----
-
-## 📊 Engineering Activity
-
-<div align="center">
-
-![Manas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manas-099&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true)
+![Guardrails AI](https://img.shields.io/badge/Guardrails_AI-6E56CF?style=for-the-badge&logo=shield&logoColor=white)
+![NeMo Guardrails](https://img.shields.io/badge/NeMo_Guardrails-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 </div>
 
 ---
 
+<div align="center">
+
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-patra-25862a246/)
+</div>
 
 <div align="center">
 <sub>Building intelligent systems, one agent at a time.</sub>
