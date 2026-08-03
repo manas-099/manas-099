@@ -1,10 +1,8 @@
 <div align="center">
 
-# Manas Patra
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E293B,100:3B82F6&height=220&section=header&text=Manas%20Patra&fontSize=52&fontColor=FFFFFF&desc=Agentic%20AI%20Developer&descAlignY=62&animation=fadeIn)
 
-### Agentic AI Developer
-
-*Turning ideas into intelligent systems.*
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&background=0D111700&width=780&lines=Agentic+AI+Developer;Building+with+LLMs+%26+RAG+Pipelines;Turning+Ideas+into+Intelligent+Systems;LangChain+%7C+LangGraph+%7C+Vector+Databases)](https://git.io/typing-svg)
 
 </div>
 
