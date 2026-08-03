@@ -24,17 +24,13 @@ class AgenticAIDeveloper:
 
     def __init__(self) -> None:
         self.current_focus: List[str] = [
-            "Building Agentic Workflows with LangChain & LangGraph",
             "Retrieval-Augmented Generation (RAG) Pipelines with Safety Guardrails",
-            "Fine-tuning & Applying LLMs for NLP tasks"
+       
         ]
         self.technical_stack: Dict[str, List[str]] = {
             "languages": ["Python"],
-            "llm_and_agents": [
-                "LangChain", "LangGraph", "AutoGen", "MCP",
-                "HuggingFace", "OpenAI", "Google Generative AI (Gemini)", "OpenRouter"
-            ],
-            "rag_and_vector_data": ["Qdrant", "FAISS", "NumPy", "Pandas"],
+            "llm": ["openrouter"],          
+            "rag_and_vector_data": ["Qdrant"],
             "guardrails_and_safety": ["Guardrails AI", "NeMo Guardrails"],
         }
 
@@ -80,11 +76,10 @@ class AgenticAIDeveloper:
 ---
 
 <div align="center">
-
 ## 🌐 Connect
-
-</div>
-
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-patra-25862a246/)
+ 
 <div align="center">
 <sub>Building intelligent systems, one agent at a time.</sub>
 </div>
