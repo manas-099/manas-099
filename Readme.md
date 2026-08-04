@@ -1,18 +1,10 @@
 
-
-https://github.com/user-attachments/assets/a0f8ee02-6a7d-4e52-93a2-be910dffecc8
-
 <div align="center">
-
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E293B,100:3B82F6&height=220&section=header&text=Manas%20Patra&fontSize=52&fontColor=FFFFFF&desc=Agentic%20AI%20Developer&descAlignY=62&animation=fadeIn)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&background=0D111700&width=780&lines=Agentic+AI+Developer;Building+with+LLMs+%26+RAG+Pipelines;Turning+Ideas+into+Intelligent+Systems;LangChain+%7C+LangGraph+%7C+Vector+Databases)](https://git.io/typing-svg)
-
-
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/a0f8ee02-6a7d-4e52-93a2-be910dffecc8" autoplay loop muted playsinline width="100%" style="border-radius: 10px;"></video>
+  
 </div>
+
+<img src="./assets/gif.gif" width="100%" alt="Demo GIF"/>
+
 
 </div>
 
