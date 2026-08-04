@@ -3,7 +3,7 @@
   
 </div>
 
-<img src="./assets/gif.gif" width="100%" alt="Demo GIF"/>
+<img src="./assets/gifv02.gif" width="100%" alt="Demo GIF"/>
 
 
 </div>
