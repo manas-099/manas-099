@@ -13,27 +13,71 @@
 # ⚡ Technical Profile Specification
 
 ```python
-from typing import List, Dict, Final
+# ⚡ Technical Profile Specification
 
-class AgenticAIDeveloper:
+from typing import Final, List, Dict
+
+
+class AppliedAIEngineer:
     """
     Profile specification for Manas Patra.
-    Focused on LLM-powered agents, RAG pipelines, and generative AI systems.
+
+    Building production-ready AI systems powered by LLMs,
+    RAG, agents, and generative AI.
     """
+
     NAME: Final[str] = "Manas Patra"
-    ROLE: Final[str] = "Agentic AI Developer"
+    ROLE: Final[str] = "Applied AI Engineer"
     MISSION: Final[str] = "Turning ideas into intelligent systems."
 
     def __init__(self) -> None:
+
         self.current_focus: List[str] = [
-            "Retrieval-Augmented Generation (RAG) Pipelines with Safety Guardrails",
-       
+            "Production-ready RAG Systems",
+            "Agentic AI & LLM Workflows",
+            "AI Safety & Guardrails",
+            "LLM Evaluation & Reliability",
         ]
+
         self.technical_stack: Dict[str, List[str]] = {
-            "languages": ["Python"],
-            "llm": ["openrouter"],          
-            "rag_and_vector_data": ["Qdrant"],
-            "guardrails_and_safety": ["Guardrails AI", "NeMo Guardrails"],
+
+            "languages": [
+                "Python",
+            ],
+
+            "llm_and_genai": [
+                "OpenRouter",
+                "LLM APIs",
+                "Prompt Engineering",
+                "Structured Outputs",
+            ],
+
+            "rag_and_retrieval": [
+                "RAG",
+                "Qdrant",
+                "Embeddings",
+                "Semantic Search",
+            ],
+
+            "agents_and_orchestration": [
+                "LangGraph",
+                "Agentic Workflows",
+                "Tool Calling",
+            ],
+
+            "safety_and_evaluation": [
+                "Guardrails AI",
+                "NeMo Guardrails",
+                "LLM Evaluation",
+            ],
+
+            "backend_and_deployment": [
+                "FastAPI",
+                "Docker",
+                "REST APIs",
+                "MongoDB",
+                "Redis",
+            ],
         }
 
     def execute_mission(self) -> str:
